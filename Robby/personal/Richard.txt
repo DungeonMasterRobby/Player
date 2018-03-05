@@ -1,0 +1,74 @@
+Sir Richard the Bright
+Half elf
+	kindred-Raised: +2 cha, +2 str
+	Blind sight 60
+	Elf blood: treated as both elf and human
+
++1 at 4
+25 buy in
+Str: 17/13	20:+5
+Dex: 10/0	10:+0
+Con: 14/5	14:+2
+Int: 10/0	10:+0
+Wis: 7/-4	07:-2
+Cha: 16/10	18:+4
+
+Paladin
+Oath of Loyalty
+	"Keep all promises. Never make an oath or promise lightly. Never go back on an oath."
+Warrior of the Holy Light
+
+BAB = level
+Fort: level/2 (round down) + 2
+Ref:  level/3 (round down)
+Will: level/2 (round down) + 2
+Divine Grace: +cha to all saving throws
+Detect evil
+Lay on hands: (level)3/4 + cha
+Auras:
+	immune to fear
+	8:immune to charm
+	17:DR/5 immune to compulsions
+Power of Faith: cost a lay on hand
+	standard action
+	30 foot range
+	one minute
+	+1 to AC and saving throws
+	8: 1d4 ability damage
+	12: daylight and 10 points of energy resistence
+	16: 25% chance to ignore crits
+	20: 30 foot range +2 AC saving throws 2d4 healed and 20 points of resistence and 50% from crits
+Shining Light: (level - 14)/3 + 1
+	(level/2)d6 to evil and healing to good
+	reflex: 10 + level/2 + cha
+	causes blinding 1 round
+Channel: cost 2 hands
+	30 foot range
+	[(level - 1)/2 + 1]d6
+	Will: 10 + level/2 + cha
+Divine bond: (level - 5)/3 + 1 points
+	Minute per level
+	Bonus types: axiomatic/brilliant energy/defending/disruption/flaming/flaming burst/holy/keen/merciful/speed.
+	Times per day: (level - 5)/4 + 1
+Loyal oath: (level - 4)/3 + 1 times per day
+	swift action
+	when adjacnet to target, target gets +cha to saving throws and AC
+	last one minute
+	if target is hit, immediate action can attack attacker
+	8:f Target is hit, imediate action to take hit instead
+Mercy: (level - 3)/3 + 1 mercies
+Holy Champion:
+DR 10/evil and heals the maximum amount anytime she heals
+	
+
+feats
+1  fey foundlings
+3  selctive channeling
+5  power attack 
+7  vital strike
+9  furious focus 
+11 improved vital strike
+13 extra lay on hands
+15 iron will
+17 greater vital strike
+19improved iron will
